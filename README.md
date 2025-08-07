@@ -27,6 +27,9 @@ This is the point of Sales Report
 
 ## BI Visualization
 
+
+
+Visuals
 ### Power BI Visuals
 
 
