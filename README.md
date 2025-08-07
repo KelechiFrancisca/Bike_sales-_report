@@ -26,10 +26,9 @@ This is the point of Sales Report
 > Sum Of Revenue By State
 
 ## BI Visualization
-<img width="946" height="519" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/921d70d5-f4b3-4706-a5e0-6a2f82c60c26" />
 
 ### Power BI Visuals
-[Click here view Image](https://ibb.co/m5H4Vchc)
+
 
 
 
